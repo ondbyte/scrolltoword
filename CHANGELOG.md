@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.9+beta1
 
-* TODO: Describe initial release.
+* TODO: A Flutter package to scroll to word in a large scrollable text.
