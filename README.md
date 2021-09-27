@@ -2,6 +2,8 @@
 
 A Flutter package to scroll to word in a large scrollable text.
 
+![example](https://raw.githubusercontent.com/ondbyte/scrolltoword/master/pubspec.yaml)
+
 ## How to use
 use the widget `ScrollToWord` to show the text and use the controller provided by the `onScrollerCreated` property to scroll to the position of the word
 
