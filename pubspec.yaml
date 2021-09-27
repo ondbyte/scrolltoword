@@ -1,6 +1,6 @@
 name: scroll_to_word
 description: A Flutter package to scroll to word in a large scrollable text.
-version: 0.0.9+beta2
+version: 0.0.9+beta3
 repository: https://github.com/ondbyte/scrolltoword.git
 
 environment:
